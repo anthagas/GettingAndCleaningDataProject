@@ -32,7 +32,7 @@ Assign column names and merge to create one data set.
 Create a logical vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others. Subset this data to keep only the necessary columns.
 ## Step 5. Use descriptive activity names to name the activities in the data set
 
-Merge data subset with the activityType table to cinlude the descriptive activity names
+Merge data subset with the activityType table to include the descriptive activity names
 ## Step 6. Appropriately label the data set with descriptive activity names.
 
 Use gsub function for pattern replacement to clean up the data labels.
